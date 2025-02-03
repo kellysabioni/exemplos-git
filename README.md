@@ -1,7 +1,7 @@
 # Exemplo de repositório com colabodores
 
-## Recusos 
+## Recursos 
 
 - Adição de colaboradores 
-- Teste diversos para m,odificar fluxo de trabalho entre colaboradores
+- Teste diversos para modificar fluxo de trabalho entre colaboradores
 - Resolução de possíveis conflitos 
